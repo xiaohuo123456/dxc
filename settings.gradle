@@ -1,0 +1,2 @@
+include ':app', ':lianxi', ':rxjavademo', ':shenmengkai', ':dengxianchao', ':shoppingcar', ':shenmengkai20191209', ':shens', ':shenmengkai20191216', ':myapplication'
+rootProject.name='My Application'
